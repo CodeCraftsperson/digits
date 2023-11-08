@@ -95,7 +95,8 @@ client/
 
 imports/
   api/           # Define collections
-    stuff/       # The Stuffs collection definition
+    contact/     # The Contacts collection definition
+    note/        # The Notes collection definition
   startup/       # Define code to run when system starts up (client-only, server-only, both)
     client/
     server/
