@@ -260,13 +260,3 @@ The application includes a [.eslintrc](https://github.com/ics-software-engineeri
 ESLint should run without generating any errors.
 
 It's significantly easier to do development with ESLint integrated directly into your IDE (such as IntelliJ).
-
-## Screencasts
-
-For more information about this system, please watch one or more of the following screencasts. Note that the current source code might differ slightly from the code in these screencasts, but the changes should be very minor.
-
-  * [Walkthrough of system user interface (6 min)](https://youtu.be/48xu1hrqUi8)
-  * [Data and accounts structure and initialization (18 min)](https://youtu.be/HZRjwrVBWp4)
-  * [Navigation, routing, pages, components (34 min)](https://youtu.be/XztTdHpv6Jw)
-  * [Forms (32 min)](https://youtu.be/8FyWR3gUGCM)
-  * [Authorization, authentication, and roles (12 min)](https://youtu.be/9HX5vuXTlvA)
