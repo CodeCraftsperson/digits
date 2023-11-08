@@ -1,4 +1,4 @@
-![](https://github.com/ics-software-engineering/meteor-application-template-react/raw/main/doc/digits-landing.png)
+<img src="doc/digits-landing.png">
 
 ## Installation
 
